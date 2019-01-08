@@ -1,0 +1,18 @@
+canvas
+{   
+	
+	display:block;
+	position:relative;
+	border:1px solid black;
+}
+polygon
+{   
+	height:400px;
+	width:80px;
+
+}
+#nr
+{   display:block;
+	margin:auto;
+	margin-top:20px;
+}
